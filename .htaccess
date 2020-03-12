@@ -8,4 +8,4 @@ RewriteCond %{HTTP_HOST} ^www\.kuba\.msk\.ru [NC]
 RewriteRule ^(.*)$ https://kuba.msk.ru/$1 [R=302,L,QSA]
 
 Deny From All
-Allow From 128.0.142.30
+Allow From 128.0.142.30 127.0.0.1
