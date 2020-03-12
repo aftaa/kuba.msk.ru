@@ -87,7 +87,7 @@
                 катание
                 на&nbsp;лыжах,
                 ледяных горках и&nbsp;это сразу от&nbsp;порога.</p>
-            <hr size="1">
+
             <p class="col-lg-12">В&nbsp;ВКонтакте есть группа <a href="https://vk.com/kuba_i_arshinovsky_park"
                                                                  target="_blank">&laquo;Куба&raquo;
                     и&nbsp;Аршиновский парк</a>, <a href="https://vk.com/albums-10700131" target="_blank">фотографии
@@ -97,9 +97,10 @@
 
         </div>
 
-
+        <hr size="1">
         <p>&copy;&nbsp;<a href="https://msk-tsaritsino.livejournal.com/542603.html" target="_blank">Наша
                 &laquo;Куба&raquo;</a></p>
+        <br>
     </div>
 </main>
 <footer class="navbar fixed-bottom">
