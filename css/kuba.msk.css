@@ -1,6 +1,10 @@
 main {
     background: yellow;
-    margin: 20% 25%;
+    margin: 0 23rem;
     padding: 1rem;
-    color: coral;
+    color: purple;
+}
+
+#maps {
+    margin: 0 auto;
 }
