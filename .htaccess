@@ -6,3 +6,5 @@ RewriteRule ^(.*)$ https://kuba.msk.ru/$1 [R=302,L,QSA]
 
 RewriteCond %{HTTP_HOST} ^www\.kuba\.msk\.ru [NC]
 RewriteRule ^(.*)$ https://kuba.msk.ru/$1 [R=302,L,QSA]
+
+Deny From 128.0.142.30
