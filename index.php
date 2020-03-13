@@ -52,9 +52,10 @@
                 ограничивались
                 ул.Севанской д.17,19,21. Не&nbsp;было школы N868, детских садов, Зиловской больницы (сейчас больница&nbsp;им.
                 В.М.
-                Буянова).</p><img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/01.jpg" height="280" class="photo-kuba">
-            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/02.jpg" height="280" class="photo-kuba">
-            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/03.jpg" height="280" class="photo-kuba">
+                Буянова).</p>
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/04.jpg" height="280" class="photo-kuba">
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/08.jpg" height="280" class="photo-kuba">
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/07.jpg" height="280" class="photo-kuba">
 
             <p>14В мкр. Ленино-Дачное&nbsp;&mdash; это островок застройки из&nbsp;десятка домов,
                 стоящих на&nbsp;холмах.
@@ -73,9 +74,9 @@
                 водными ответвлениями. В&nbsp;1969 году проложили дорогу&nbsp;&mdash; продолжение ул.Бехтерева,
                 между
                 заболоченными прудами дамбу (пешеходная дорога) и началось строительство нового микрорайона 14В.</p>
-            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/04.jpg" height="280" class="photo-kuba">
-            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/08.jpg" height="280" class="photo-kuba">
-            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/07.jpg" height="280" class="photo-kuba">
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/01.jpg" height="280" class="photo-kuba">
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/02.jpg" height="280" class="photo-kuba">
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/03.jpg" height="280" class="photo-kuba">
 
             <p>Появился новый маршрут автобуса N&nbsp;217&nbsp;с конечной остановкой &laquo;14&nbsp;квартал
                 Ленино-Дачное
