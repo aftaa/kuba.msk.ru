@@ -26,3 +26,9 @@ footer a:hover {
 .yellow {
     background: yellow;
 }
+
+img.photo-kuba {
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 2rem;
+}

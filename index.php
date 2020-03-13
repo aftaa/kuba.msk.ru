@@ -18,19 +18,23 @@
     <h1>Куба / <small>14-й &laquo;В&raquo; квартал Ленино-Дачного</small></h1>
     <div id="maps">
         <a href="https://yandex.ru/maps/213/moscow/?ll=37.639955%2C55.616943&z=15"
-           target="_blank">Yandex.maps</a><img alt="Куба на Яндекс картах" src="/pics/favicons/yandex.maps.svg" width="16" height="16"> /
+           target="_blank">Yandex.maps</a><img alt="Куба на Яндекс картах" src="/pics/favicons/yandex.maps.svg"
+                                               width="16" height="16"> /
         <a href="https://n.maps.yandex.ru/#!/?z=15&ll=37.639955%2C55.616943&l=nk%23sat" target="_blank">Народная
-            карта</a><img alt="Куба на народной карте" src="/pics/favicons/n.maps.yandex.ru.ico" width="16" height="16"> /
-        <a href="https://www.google.ru/maps/@55.6169425,37.6399289,14z">Google maps</a><img alt="Куба на гугл картах" src="/pics/favicons/google.maps.jpg" style="margin-left: 5px" width="16" height="16"> /
-        <a href="http://wikimapia.org/#lang=ru&lat=55.617358&lon=37.646842&z=16&m=w">Wikimapia</a><img alt="Куба на Викимапии" src="/pics/favicons/wikimaia.ico" style="margin-left: 3px" width="16" height="16">
+            карта</a><img alt="Куба на народной карте" src="/pics/favicons/n.maps.yandex.ru.ico" width="16" height="16">
+        /
+        <a href="https://www.google.ru/maps/@55.6169425,37.6399289,14z">Google maps</a><img alt="Куба на гугл картах"
+                                                                                            src="/pics/favicons/google.maps.jpg"
+                                                                                            style="margin-left: 5px"
+                                                                                            width="16" height="16"> /
+        <a href="http://wikimapia.org/#lang=ru&lat=55.617358&lon=37.646842&z=16&m=w">Wikimapia</a><img
+                alt="Куба на Викимапии" src="/pics/favicons/wikimaia.ico" style="margin-left: 3px" width="16"
+                height="16">
     </div>
-
-
-
-
     <div id="text" class="container">
         <div class="row">
-            <h4 class="font-italic" style="margin-bottom: 2rem;">Старожил района, активный участник инициативной группы Аршиновского парка Любовь
+            <h4 class="font-italic" style="margin-bottom: 2rem;">Старожил района, активный участник инициативной группы
+                Аршиновского парка Любовь
                 Евгеньевна Кузнецова
                 по&nbsp;нашей
                 просьбе любезно подготовила очерк на&nbsp;очень часто возникающий вопрос (особенно у&nbsp;молодого
@@ -48,7 +52,9 @@
                 ограничивались
                 ул.Севанской д.17,19,21. Не&nbsp;было школы N868, детских садов, Зиловской больницы (сейчас больница&nbsp;им.
                 В.М.
-                Буянова).</p>
+                Буянова).</p><img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/01.jpg" height="280" class="photo-kuba">
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/02.jpg" height="280" class="photo-kuba">
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/03.jpg" height="280" class="photo-kuba">
 
             <p>14В мкр. Ленино-Дачное&nbsp;&mdash; это островок застройки из&nbsp;десятка домов,
                 стоящих на&nbsp;холмах.
@@ -67,6 +73,9 @@
                 водными ответвлениями. В&nbsp;1969 году проложили дорогу&nbsp;&mdash; продолжение ул.Бехтерева,
                 между
                 заболоченными прудами дамбу (пешеходная дорога) и началось строительство нового микрорайона 14В.</p>
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/04.jpg" height="280" class="photo-kuba">
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/08.jpg" height="280" class="photo-kuba">
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/07.jpg" height="280" class="photo-kuba">
 
             <p>Появился новый маршрут автобуса N&nbsp;217&nbsp;с конечной остановкой &laquo;14&nbsp;квартал
                 Ленино-Дачное
@@ -77,11 +86,15 @@
                 Вот
                 местные жители и назвали эту стройку на&nbsp;острове КУБА. Название закрепилось до&nbsp;сих пор.</p>
 
-            <p>Связь с&nbsp;большой землей только через один маршрут автобуса и&nbsp;сейчас. Дорога
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/09.jpg" height="280" class="photo-kuba">
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/10.jpg" height="280" class="photo-kuba">            <p>Связь с&nbsp;большой землей только через один маршрут автобуса и&nbsp;сейчас. Дорога
                 в&nbsp;школу
                 N868,
                 больницу
                 и&nbsp;другой цивилизации через овраг, пруды&nbsp;&mdash; долго и&nbsp;далеко.</p>
+
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/06.jpg" height="280" class="photo-kuba">
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/05.jpg" height="280" class="photo-kuba">
 
             <p>Но&nbsp;есть одно большое преимущество для жителей Кубы: необыкновенная природа, чистый
                 воздух, по&nbsp;весне
