@@ -1,11 +1,16 @@
 main h1 {
-    background: yellow;
+    /*background: yellow;*/
     padding: 1rem;
     color: purple;
 }
 
 #maps, #text {
     margin: 1rem;
+}
+
+#maps {
+    background: yellow;
+    padding: 3px;
 }
 
 footer {

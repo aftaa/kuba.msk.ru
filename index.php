@@ -30,6 +30,7 @@
         <a href="http://wikimapia.org/#lang=ru&lat=55.617358&lon=37.646842&z=16&m=w">Wikimapia</a><img
                 alt="Куба на Викимапии" src="/pics/favicons/wikimaia.ico" style="margin-left: 3px" width="16"
                 height="16">
+         / @<a href="https://t.me/kuba_buba">telegram</a>
     </div>
     <div id="text" class="container">
         <div class="row">
@@ -88,7 +89,8 @@
                 местные жители и назвали эту стройку на&nbsp;острове КУБА. Название закрепилось до&nbsp;сих пор.</p>
 
             <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/09.jpg" height="280" class="photo-kuba">
-            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/10.jpg" height="280" class="photo-kuba">            <p>Связь с&nbsp;большой землей только через один маршрут автобуса и&nbsp;сейчас. Дорога
+            <img alt="Микрорайон Куба (Царицыно)" src="pics/kuba/10.jpg" height="280" class="photo-kuba">
+            <p>Связь с&nbsp;большой землей только через один маршрут автобуса и&nbsp;сейчас. Дорога
                 в&nbsp;школу
                 N868,
                 больницу
