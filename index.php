@@ -12,6 +12,7 @@
     <script src="/js/bootstrap.bundle.js"></script>
     <link rel="stylesheet" type="text/css" href="/css/kuba.msk.css">
     <?php include 'metrika.txt' ?>
+    <link rel="icon" href="favicon.png">
 </head>
 <body>
 <main>
