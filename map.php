@@ -7,21 +7,22 @@
 
 
     <div class="container">
-        <div class="container lead">
-        Оригиналы:
-        <a href="/pics/map/1.jpg">один</a>,
-        <a href="/pics/map/2.jpg">два</a>
-        <a href="/pics/map/3.jpg">три</a>
+        <hr>
+        <p class="lead">Велосипед не мой, я только склеил оригиналы:
+            <a href="/pics/map/1.jpg">один</a>,
+            <a href="/pics/map/2.jpg">два</a>
+            <a href="/pics/map/3.jpg">три</a>
 
 
-            &copy; <a href="https:
+
+        &copy; <a href="https:
             //msk-tsaritsino.livejournal.com/590479
             .htmls">https://msk-tsaritsino.livejournal.com/590479.html
-            </a>, а я склеил</div>
-
-        <img src="/pics/map/map.jpg">
-
+        </a>
     </div>
+
+    <img src="/pics/map/map.jpg">
+
 
 
 <?php require_once 'include/footer.php' ?>
