@@ -1,47 +1,20 @@
-<?php
-?><!DOCTYPE html>
-<html lang="ru">
-<head>
-    <title>Микрорайон Куба Москва</title>
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap-grid.css">
-    <link rel="stylesheet" type="text/css" href="/css/bootstrap-reboot.css">
-    <script src="/js/jquery-3.4.1.min.js"></script>
-    <script src="/js/popper.min.js"></script>
-    <script src="/js/bootstrap.js"></script>
-    <script src="/js/bootstrap.bundle.js"></script>
-    <link rel="stylesheet" type="text/css" href="/css/kuba.msk.css">
-    <?php include 'metrika.txt' ?>
-    <link rel="icon" href="favicon.png">
-</head>
-<body>
-<main>
-    <h1>Куба / <small>14-й &laquo;В&raquo; квартал Ленино-Дачного</small></h1>
-    <div id="maps">
-        <a href="https://yandex.ru/maps/213/moscow/?ll=37.639955%2C55.616943&z=15"
-           target="_blank">Yandex.maps</a><img alt="Куба на Яндекс картах" src="/pics/favicons/yandex.maps.svg"
-                                               width="16" height="16"> /
-        <a href="https://n.maps.yandex.ru/#!/?z=15&ll=37.639955%2C55.616943&l=nk%23sat" target="_blank">Народная
-            карта</a><img alt="Куба на народной карте" src="/pics/favicons/n.maps.yandex.ru.ico" width="16" height="16">
-        /
-        <a href="https://www.google.ru/maps/@55.6169425,37.6399289,14z">Google maps</a><img alt="Куба на гугл картах"
-                                                                                            src="/pics/favicons/google.maps.jpg"
-                                                                                            style="margin-left: 5px"
-                                                                                            width="16" height="16"> /
-        <a href="http://wikimapia.org/#lang=ru&lat=55.617358&lon=37.646842&z=16&m=w">Wikimapia</a><img
-                alt="Куба на Викимапии" src="/pics/favicons/wikimaia.ico" style="margin-left: 3px" width="16"
-                height="16">
-         / @<a href="https://t.me/kuba_buba">telegram</a>
-    </div>
+<?php require_once 'include/header.php' ?>
+
+    <div class="bg-warning" style="display: inline-block; padding: 1em; margin: 1em;"><sup class="bg-danger">New!</sup>
+        <a href="map.php">Предлагаемая схема развязок-перевязок в
+            Царицыно</a></div>
+
+    <?php require_once 'include/maps.php'?>
+
     <div id="text" class="container">
         <div class="row">
-            <h4 class="font-italic" style="margin-bottom: 2rem;">Старожил района, активный участник инициативной группы
+            <b class="font-italic" style="margin-bottom: 2rem;">Старожил района, активный участник инициативной группы
                 Аршиновского парка Любовь
                 Евгеньевна Кузнецова
                 по&nbsp;нашей
                 просьбе любезно подготовила очерк на&nbsp;очень часто возникающий вопрос (особенно у&nbsp;молодого
                 населения):
-                почему &laquo;Кубу&raquo; называют &laquo;Кубой&raquo;.</h4>
+                почему &laquo;Кубу&raquo; называют &laquo;Кубой&raquo;.</b>
 
             <p>В&nbsp;нашем районе &quot; Царицыно &quot; есть небольшой микрорайон&nbsp;&mdash;
                 14В квартал Ленино
@@ -126,9 +99,4 @@
         <br>
     </div>
 </main>
-<footer class="navbar fixed-bottom">
-    <div id="c">&copy; 2020 <a href="http://kuba.moscow/" target="_blank" id="kuba-moscow">kuba.moscow</a>
-    </div>
-</footer>
-</body>
-</html>
+<?php require_once 'include/footer.php'?>
