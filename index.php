@@ -1,20 +1,26 @@
 <?php require_once 'include/header.php' ?>
 
-    <div class="bg-warning" style="display: inline-block; padding: 1em; margin: 1em;"><sup class="bg-danger">New!</sup>
+    <div class="bg-warning" style="display: inline-block; padding: 1em; margin: 1em;">
         <a href="map.php">Предлагаемая схема развязок-перевязок в
             Царицыно</a></div>
 
-    <?php require_once 'include/maps.php'?>
+    <div class="bg-warning" style="display: inline-block; padding: 1em; margin: 1em;"><sup class="bg-danger">New!</sup>
+        <a href="dp23.php">Новый автобусный маршрут №ДП23</a></div>
+
+<?php require_once 'include/maps.php'?>
 
     <div id="text" class="container">
         <div class="row">
-            <b class="font-italic" style="margin-bottom: 2rem;">Старожил района, активный участник инициативной группы
+
+            <h2>Почему Куба?</h2>
+
+            <p class="font-italic" style="margin-bottom: 2rem;">Старожил района, активный участник инициативной группы
                 Аршиновского парка Любовь
                 Евгеньевна Кузнецова
                 по&nbsp;нашей
                 просьбе любезно подготовила очерк на&nbsp;очень часто возникающий вопрос (особенно у&nbsp;молодого
                 населения):
-                почему &laquo;Кубу&raquo; называют &laquo;Кубой&raquo;.</b>
+                почему &laquo;Кубу&raquo; называют &laquo;Кубой&raquo;.</p>
 
             <p>В&nbsp;нашем районе &quot; Царицыно &quot; есть небольшой микрорайон&nbsp;&mdash;
                 14В квартал Ленино
